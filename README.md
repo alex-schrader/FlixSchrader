@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<iframe src="https://giphy.com/embed/VM1hkoy5DyLbauUsNA" width="259" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VM1hkoy5DyLbauUsNA">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/VM1hkoy5DyLbauUsNA" width=250><br>
 
 ### Notes
 Downloading alamo fire went a bit quick, also the xcode UI being different from the videos was a bit confusing at times.
